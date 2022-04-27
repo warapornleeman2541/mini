@@ -76,9 +76,9 @@ import Link from 'next/link'
 
         <img  src="https://i.pinimg.com/236x/57/3f/c1/573fc116b47036c441296e73b26ec9cd.jpg" alt="Trulli" width="500" height="500"></img>
 <p>
-        <a href="https://www.facebook.com/"><img  src="http://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/social-facebook-icon.png"  width="50" height="50" ></img></a>
+        <a href="https://www.facebook.com/dadazz.waraporn"><img  src="http://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/social-facebook-icon.png"  width="50" height="50" ></img></a>
 
-        <a href="https://www.instagram.com/littlepig.shopp/?igshid=1oij3vr1kxeu4&fbclid=IwAR04ecKAJjnfKKMAwLHBQ4ckYyFrru4Ksgs4jvIgNvygAtUInAqu18-82Vk">
+        <a href="https://www.instagram.com/">
           <img  src="https://i.pinimg.com/236x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg"  width="50" height="50" ></img></a>      
         </p>      
     </div>

@@ -26,9 +26,6 @@ const Navbar = () => (
                <Link href="/profile"><a class="nav-link active"> เกี่ยวกับเรา </a></Link> 
             </li>
             <li class="nav-item">
-               <Link href="/shops"><a class="nav-link active"> รายการสินค้า </a></Link> 
-            </li>
-            <li class="nav-item">
                <Link href="/logout"><a class="nav-link active"> Logout </a></Link> 
             </li>
      </ul>
